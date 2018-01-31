@@ -32,6 +32,7 @@ public class Main {
     //  }
     //}
     //System.out.println(Integer.toString(buenos));
+    //DEBUG nada, linea para testear github
     
     SquareMatrix MC = new SquareMatrix(1000);
     boolean perfection;
